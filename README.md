@@ -1,4 +1,4 @@
-# Node.js-csv-reader
+# Node.js - CSV Parser
 
 * creating API endpoint that parses and processes CSV files as array
 
